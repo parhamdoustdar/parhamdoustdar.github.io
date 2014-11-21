@@ -1,6 +1,6 @@
 title:            Parham Doustdar's Blog
 description:      "Programming and entrepreneurship, all-in-one"
-logo:             photo.jpg
+logo:
 disqus_shortname: parhamdoustdar
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
