@@ -1,5 +1,8 @@
 ---
+layout: post
 title: How to Protect Your Ideas (and How I Stole from James Altucher)
+date: 2014-06-09 12:32:18
+categories: Entrepreneurship 
 ---
 
 It doesn’t happen often, but some weekends (like this one) I begin talking to my friends, to catch up with them and see what they’re doing. It has become a habit for me to lose myself in talking to my girlfriend and reading books. Talking to the friends around me is pointless. Most of the time.

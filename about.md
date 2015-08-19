@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /about.html
-title: Parham Doustdar
-tags: [Parham, Doustdar, Parham Doustdar]
+title: About Parham Doustdar
+permalink: /about/
 ---
 
 My name is Parham Doustdar. I am a PHP programmer who is taking baby steps to become an entrepreneur.
