@@ -63,7 +63,7 @@ There are only a few qualities in me that I admire, and I'm sure you are the sam
 
 Anyway! I'm getting off-topic here.
 
-One of those qualities I admire in me is my need to learn. I watch, process, and learn at a very rapid pace, and while BusinessX was going through [the small business cycle](http://www.e-myth.com/cs/user/print/post/the-small-business-cycle) (infancy, adolescence, and back to infancy), I watched and learned, and the lessons I learned, coupled with James Altucher's post on LinkedIn called [10 reasons why you have to quit your job this year](http://www.jamesaltucher.com/2013/01/10-reasons-why-you-have-to-quit-your-job-this-year/). Then I quit.
+One of those qualities I admire in me is my need to learn. I watch, process, and learn at a very rapid pace, and while BusinessX was going through [the small business cycle](http://www.e-myth.com/cs/user/print/post/the-small-business-cycle) (infancy, adolescence, and back to infancy), I watched and learned, and the lessons I learned, coupled with James Altucher's post on LinkedIn called [10 reasons why you have to quit your job this year](http://www.jamesaltucher.com/2013/01/10-reasons-why-you-have-to-quit-your-job-this-year/) made me quit to find more opportunities to flourish.
 
 But I didn't start my own business. I joined another, again.
 
