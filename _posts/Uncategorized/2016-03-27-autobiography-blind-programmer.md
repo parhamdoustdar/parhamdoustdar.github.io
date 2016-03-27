@@ -3,9 +3,9 @@ layout: post
 title: An Autobiography of a Blind Programmer
 ---
 
-A question I get asked a lot is, being completely blind, how do I program? I have provided an answer to this question in some places. For example, I have answered [How does a visually impaired computer programmer program?](http://qr.ae/RzO7cb) on Quora. I have also talked about this in [part one](https://www.livecoding.tv/parham90/videos/z8MoB-how-do-blind-engineers-write-and-debug-code) and [part two](https://www.livecoding.tv/parham90/videos/nD1Er-how-do-blind-engineers-write-and-debug-code-2) of my interview on LiveCoding.tv. However, this is a more in-depth look at my life, and the events that have shaped my current career and choices. More of an autobiography, if you will.
+A question I get asked a lot is, being completely blind, how do I program? I have provided an answer to this question in some places. For example, I have answered [How does a visually impaired computer programmer program?](http://qr.ae/RzO7cb) on Quora. I have also talked about this in [part one](https://www.livecoding.tv/parham90/videos/z8MoB-how-do-blind-engineers-write-and-debug-code) and [part two](https://www.livecoding.tv/parham90/videos/nD1Er-how-do-blind-engineers-write-and-debug-code-2) of my interview on LiveCoding.tv. However, this is a more in-depth look at my life, and the events that have shaped my current career and choices. More of an autobiography, if you will. So, if you are curious, give me your hand, and allow the blind to guide the sighted.
 
-However, this is a different attempt: I'm going to offer you a glimpse into the life of a programmer. Not what he uses and how he uses it to get his job done, but the experiences and events that have shaped him and have brought him to this point in time. If you are curious, give me your hand, and allow the blind to guide the sighted.
+## How It Began
 
 I was born on February seventh, 1990. I am the youngest of three, and I live in Tehran, Iran. I was completely blind from birth, and only have the ability to perceive light, and obviously, the absence of it.
 
@@ -35,6 +35,8 @@ Then there was the issue of real-world experience: reading a book about how to c
 
 So, in the end, that project flopped. However, it showed me something very, very important: I liked programming. It made me feel good to be able to make computers do things that I wanted. To help others.
 
+## How I Learned
+
 It was that experience that led me to choose software as the field I wanted to study in the university. This decision came with its own problems: there were no books for my highschool, and no books for the courses I had to take in the university. I had to either rely on my own knowledge, or look for ways to get someone to read my books for me. However, since I hate studying a determined number of resources to take an exam, I mostly did the former. I relied on my knowledge of tinkering around with different programming languages at home. That got me an A+ in all programming fields: databases, and any course that had practical programming in it.
 
 As for mathematics and theoretical subjects such as data storage and retrieval, operating systems, statistics, and other subjects that relied on presentation... well, I didn't do so well in them, because there was no way of learning them for me.
@@ -42,6 +44,8 @@ As for mathematics and theoretical subjects such as data storage and retrieval, 
 In the end, those experiences earned me an Associates degree, an A, and a hatred toward every method of teaching that begins with theory or graphical representations.
 
 I was so fed up with trying to conform to educational systems that I got even more into tinkering with different technologies. During university, I had found that PHP and the web was something I loved to pursue, and that made me try out different frameworks.
+
+## How I Worked
 
 I met [Howard Chang](https://www.linkedin.com/in/howardchanguvic) in the #yii channel on [FreeNode](http://www.freenode.net). I happened to be there when he asked a few questions, and I somehow got to impress him enough for him to look at my information.
 
@@ -65,8 +69,12 @@ But I didn't start my own business. I joined another, again.
 
 Since I'm completely blind, I had been drawn more and more to the back-end of web development. I have never written one line of view code in production, and that was why my new workplace (where I was responsible for the back-end API of an [Asterisk system](http://www.asterisk.org/) that sold some services) was awesome. I could now execute all those practices I wanted to do: test-driven development, practical application of design patterns, refactoring, and all that jargon. And I did.
 
-And then I found a book called [Soft Skills](https://www.manning.com/books/soft-skills). At the time, there were no pirated copies available (sorry, [John Sonmez](http://simpleprogrammer.com/)). However, after having gone through Uncle Bob's [the Clean Coder](http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073), I was quite happy to get another book like it. After all, in my humble opinion, developers were a very important reason for BusinessX's first stage development efforts to be unsuccessful.
+## How This Blog Began
+
+While at my current job, I found a book called [Soft Skills](https://www.manning.com/books/soft-skills). At the time, there were no pirated copies available (sorry, [John Sonmez](http://simpleprogrammer.com/)). However, after having gone through Uncle Bob's [the Clean Coder](http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073), I was quite happy to get another book like it. After all, in my humble opinion, developers were a very important reason for BusinessX's first stage development efforts to be unsuccessful.
 
 Since I was thirteen, I have been reading a lot of books. Having a screen reader that reads at about 520 words per minute is a blessing when you are gathering knowledge. And lately, I have decided to share what I learn and what I have learned, both to show myself to the world and to share and discuss, get corrections, and make what I learn stick. Examples include [my author page on SitePoint](http://www.sitepoint.com/author/pdoustdar/), [my profile on Quora](https://www.quora.com/profile/Parham-Doustdar) and of course, this blog.
+
+So, apart from a very old post, I thought a perfect way to start my blog, officially, is to tell you a bit about me. I hope you liked my story.
 
 How do you feel about this autobiography? Did it answer your questions? Did it cause new ones? If you have any questions you want answered, or if you have any feedback about this post, I would love to read them in the comments below.
