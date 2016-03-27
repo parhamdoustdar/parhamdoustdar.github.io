@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "https://www.parhamdoustdar.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-75640034-1
 
 # Optional features
 animated:           true
