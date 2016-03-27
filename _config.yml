@@ -26,11 +26,11 @@ stackoverflow_id:
 twitter_username: pd90
 facebook_username: parham90
 google_plus_id:
-linkedin_username:
+linkedin_username: parhamdoustdar
 angellist_username:
 medium_id:
 bitcoin_url:
-paypal_url:
+paypal_url: paypal.me/parhamdoustdar
 flattr_button:
 
 # Post sharing icons
@@ -40,12 +40,12 @@ share_text: 'Share this post!'
 share_facebook: true
 share_twitter: true
 share_googleplus: true
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
+share_linkedin: true
+share_digg: true
+share_tumblr: true
+share_reddit: true
+share_stumbleupon: true
+share_hackernews: true
 
 # Build settings
 markdown:     kramdown
