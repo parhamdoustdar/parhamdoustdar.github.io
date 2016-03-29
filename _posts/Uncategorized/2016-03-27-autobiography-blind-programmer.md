@@ -3,6 +3,8 @@ layout: post
 title: An Autobiography of a Blind Programmer
 ---
 
+*This post has been translated to Chinese by [LaBaZhou](https://twitter.com/viviworld). You may read it [here](http://www.labazhou.net/2016/03/autobiography-blind-programmer/).*
+
 A question I get asked a lot is, being completely blind, how do I program? I have provided an answer to this question in some places. For example, I have answered [How does a visually impaired computer programmer program?](http://qr.ae/RzO7cb) on Quora. I have also talked about this in [part one](https://www.livecoding.tv/parham90/videos/z8MoB-how-do-blind-engineers-write-and-debug-code) and [part two](https://www.livecoding.tv/parham90/videos/nD1Er-how-do-blind-engineers-write-and-debug-code-2) of my interview on LiveCoding.tv. However, this is a more in-depth look at my life, and the events that have shaped my current career and choices. More of an autobiography, if you will. So, if you are curious, give me your hand, and allow the blind to guide the sighted.
 
 ## How It Began
