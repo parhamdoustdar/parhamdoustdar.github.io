@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: The Tools of a Blind Programmer
 ---
