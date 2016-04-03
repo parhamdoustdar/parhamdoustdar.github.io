@@ -101,4 +101,4 @@ But this is the very first level. Successful people take this situation and star
 
 That's who I want to be. That's how I wish to be.
 
-**P.S.: I'm looking for someone who could help me move over to a WordPress website. If you are a theme developer and would like to design my new theme, please reach out to me through the social media links in the header and footer, or the [contact form](/contact/).**
+**P.S.: I'm looking for someone who could help me move over to a WordPress website. If you are a theme developer and would like to design my new theme, please reach out to me through the social media links in the header and footer, or the [contact form](contact).**
