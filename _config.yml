@@ -5,6 +5,7 @@ author:      Parham Doustdar
 description: "The Life of a Completely Blind Iranian Programmer"
 baseurl:     ""
 url:         "https://www.parhamdoustdar.com"
+encoding: UTF-8
 
 # Google analytics
 google_analytics: UA-75640034-1

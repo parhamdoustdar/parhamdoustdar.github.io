@@ -1,9 +1,9 @@
----
+ï»¿---
 layout: post
 title: The Tools of a Blind Programmer
 ---
 
-When I posted the [Autobiography of a Blind Programmer]({% post_url /Uncategorized/2016-03-27-autobiography-blind-programmer %}), I received a lot of requests asking about the way I use the computer, how I write code, and how I understand abstract meanings.
+When I posted the [Autobiography of a Blind Programmer]({% post_url /Uncategorized/2016-03-27-autobiography-blind-programmer %}), I received a lot of requests asking about the way I use the computer, how I write code, and how I understand abstract concepts.
 
 Last week, I originally started out writing this post. However, I found my writing getting sidetracked all the time. I would point out things from my past that were not about the tools at all. I gave my personal preference, and then went on to explain how this preference was formed. So, why am I telling you this?
 
@@ -15,7 +15,7 @@ With all that said, let's cut the c**p and get to explaining what the title of t
 
 ### Screen Readers
 
-Blind and visually impaired computer users use what is called a screen reader to—make a guess!—read the screen to them. These have very powerful features,. For example, I can control the mouse with it, view the elements on the screen hierarchically (such as being able to go inside a menu bar, or to move on the items within a toolbar, etc). However, one of the more impressive features of any screen reader is usually in how it handles web content. The more rudimentary functionality is to be able to move between different types of elements such as lists, headings, buttons, text fields, and so on. The more advanced level is granularity, such as being able to jump to a level one heading (that is, an `h1` element) and so on. Finally, being able to handle [WAI-ARIA](https://www.w3.org/TR/wai-aria/) is one of the features that has become important recently, as more and more websites adopt its usage (examples include [Google Docs](https://www.google.com/docs/about/), [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com) and so on).
+Blind and visually impaired computer users use what is called a screen reader toâ€”make a guess!â€”read the screen to them. These have very powerful features,. For example, I can control the mouse with it, view the elements on the screen hierarchically (such as being able to go inside a menu bar, or to move on the items within a toolbar, etc). However, one of the more impressive features of any screen reader is usually in how it handles web content. The more rudimentary functionality is to be able to move between different types of elements such as lists, headings, buttons, text fields, and so on. The more advanced level is granularity, such as being able to jump to a level one heading (that is, an `h1` element) and so on. Finally, being able to handle [WAI-ARIA](https://www.w3.org/TR/wai-aria/) is one of the features that has become important recently, as more and more websites adopt its usage (examples include [Google Docs](https://www.google.com/docs/about/), [Twitter](https://twitter.com/), [Facebook](https://www.facebook.com) and so on).
 
 Screen readers, just like other programs, have different features based on which one you are using. For example, I use [NVDA](http://www.nvaccess.org/) because it's really high-quality, it's written by blind people, and I don't have to keep looking for pirated copies because it's free. However, there are other screen readers. [Jaws (AKA Job Access With Speech)](http://www.freedomscientific.com/Products/Blindness/JAWS) is a popular one whose usage is dropping after many years. There's also [Window-Eyes](http://www.gwmicro.com/window-eyes/), which has been rising in usage. If you would like to see a survey of trends (browser, screen reader, and browser/screen reader combination), check out [Screen Reader User Survey #6 Results by WebAIM](http://webaim.org/projects/screenreadersurvey6/). It's a very useful resource for knowing the statistical trends within a minority of users.
 
