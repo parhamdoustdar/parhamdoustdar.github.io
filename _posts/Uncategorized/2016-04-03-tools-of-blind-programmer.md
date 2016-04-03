@@ -3,11 +3,11 @@ layout: post
 title: The Tools of a Blind Programmer
 ---
 
-When I posted the [Autobiography of a Blind Programmer]({% post_url 2016-03-27-autobiography-blind-programmer %}), I received a lot of requests asking about the way I use the computer, how I write code, and how I understand abstract meanings.
+When I posted the [Autobiography of a Blind Programmer]({% post_url /Uncategorized/2016-03-27-autobiography-blind-programmer %}), I received a lot of requests asking about the way I use the computer, how I write code, and how I understand abstract meanings.
 
 Last week, I originally started out writing this post. However, I found my writing getting sidetracked all the time. I would point out things from my past that were not about the tools at all. I gave my personal preference, and then went on to explain how this preference was formed. So, why am I telling you this?
 
-This is to encourage you to take a look at the link I gave in the very first line of the post, namely the [Autobiography of a Blind Programmer]({% post_url 2016-03-27-autobiography-blind-programmer %}). If you still don't feel like going through that, please keep it in mind. You can refer to it if you feel like you want to know more of my background.
+This is to encourage you to take a look at the link I gave in the very first line of the post, namely the [Autobiography of a Blind Programmer]({% post_url /Uncategorized/2016-03-27-autobiography-blind-programmer %}). If you still don't feel like going through that, please keep it in mind. You can refer to it if you feel like you want to know more of my background.
 
 With all that said, let's cut the c**p and get to explaining what the title of this post actually says.
 
@@ -101,4 +101,4 @@ But this is the very first level. Successful people take this situation and star
 
 That's who I want to be. That's how I wish to be.
 
-**P.S.: I'm looking for someone who could help me move over to a WordPress website. If you are a theme developer and would like to design my new theme, please reach out to me through the social media links in the header and footer, or the [contact form](contact).**
+**P.S.: I'm looking for someone who could help me move over to a WordPress website. If you are a theme developer and would like to design my new theme, please reach out to me through the social media links in the header and footer, or the contact form!**
