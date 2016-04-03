@@ -100,3 +100,5 @@ There are a few things I love about being blind. One of them is the need to carv
 But this is the very first level. Successful people take this situation and start playing around with it, shaping it, and moulding it until they are happy with it. It's like how programmers refactor their code until it has reached the shape they have always envisioned. It's like how stonemasons chip away at a piece of marble until the shape in their mind would take form in reality.
 
 That's who I want to be. That's how I wish to be.
+
+P.S.: I'm looking for someone who could help me move over to a WordPress website. If you are a theme developer and would like to design my new theme, please reach out to me through the social media links in the header and footer, or the [contact form](/contact/).
