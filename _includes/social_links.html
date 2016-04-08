@@ -9,7 +9,7 @@
     {% if site.stackoverflow_id %}
       <a class="fa fa-stack-overflow" href="https://stackoverflow.com/users/{{ site.stackoverflow_id }}" aria-label="StackOverflow"></a>
     {% endif %}
-    <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"></a>
+    <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}" aria-label="RSS feed"></a>
     {% if site.twitter_username %}
       <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}" aria-label="Twitter"></a>
     {% endif %}
@@ -37,7 +37,7 @@
       <a class="fa fa-bitcoin" href="{{ site.bitcoin_url }}"></a>
     {% endif %}
     {% if site.paypal_url %}
-      <a class="fa fa-paypal" href="{{ site.paypal_url }}" aria-label="PayPal!"></a>
+      <a class="fa fa-paypal" href="{{ site.paypal_url }}" aria-label="PayPal"></a>
     {% endif %}
     {% if site.flattr_button %}
       {{ site.flattr_button }}
