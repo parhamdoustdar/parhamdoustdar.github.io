@@ -59,7 +59,7 @@ As someone who is different from many other people, you have to make a lot of ch
 
 To explain the statement above, allow me to lead you into your own brain so that we can first define motivation.
 
-Whoever said that the road from decision to action is a long one was right. Neurologically, decisions happen in the prefrontal cortex. These decisions are then converted to commands that are sent through the striatum, which is like a router, dispatching commands from some areas of the brain to others. In this case, the striatum relays that command to the basal ganglia, which is the part of the brain which is in case of movement. It is only at this stage that our decisions manifest themselves in the real world.
+Whoever said that the road from decision to action is a long one was right. Neurologically, decisions happen in the prefrontal cortex. These decisions are then converted to commands that are sent through the striatum, which is like a router, dispatching commands from some areas of the brain to others. In this case, the striatum relays that command to the basal ganglia, which is the part of the brain which is in charge of movement. It is only at this stage that our decisions manifest themselves in the real world.
 
 So, a lot of research has focused on the striatum, because, apparently, this is where motivation lives, and the results are quite clear.
 
