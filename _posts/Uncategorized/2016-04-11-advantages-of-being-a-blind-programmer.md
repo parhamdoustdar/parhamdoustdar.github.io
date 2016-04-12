@@ -32,6 +32,7 @@ No one can deny this. When I walk into the room, everyone turns to stare at me o
 This means that unlike many of my peers, to get someone's undivided attention, all I need to say is one single sentence:
 
 "I'm a back-end programmer."
+
 Of course, this does have its downsides. You wouldn't want to hear people muttering under their breath about how unfortunate you are. It doesn't really feel nice when people pray for you to get your sight back. It makes you wonder: how can they be so blind? How can they not see what a gift it is to be blind?
 
 ## The Chance to Innovate
