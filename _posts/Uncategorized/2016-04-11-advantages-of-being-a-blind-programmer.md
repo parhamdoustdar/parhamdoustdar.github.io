@@ -15,7 +15,7 @@ A lot of people were telling me, through both the comments and the [contact](/co
 
 It's a well-founded fear, a fear we developers are very familiar with. It's the same kind of fear that makes us pad our estimates when we have a task that is not completely clear to us.
 
-You have probably experienced this: when you are in the flow, your estimates are pretty near the reality, and you are confident, energetic and productive. But then the next day, you pick that task everyone dreads: the one in which you have to read an obscure documentation, or slog through a piece of code no one remembers writing. Suddenly, your estimates go wild. You work for a few minutes, but then can't focus and have to get up. Something that took a few minutes will now take you an hour to complete.
+You have probably experienced this: when you are in the flow, your estimates are pretty near the reality, and you are confident, energetic and productive. But then the next day, you pick that task everyone dreads: the one in which you have to read an obscure documentation, or slog through a piece of code no one remembers writing. Suddenly, your estimates go wide. You work for a few minutes, but then can't focus and have to get up. Something that took a few minutes will now take you an hour to complete.
 
 Why is that?
 
