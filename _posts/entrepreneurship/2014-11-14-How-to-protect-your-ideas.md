@@ -22,25 +22,25 @@ How does it feel? Does it burn? I can speak for myself and I can tell you that i
 
 If you’re still not convinced, let’s look at this from another angle. Please, humor me and do the following. In fact, I’m going to do it along with you.
 
-##Find The Idea
+## Find The Idea
 
 If you have an idea that you want to work on, write it down now. Don’t worry, you can burn it later. If you don’t have an idea, just reach into your mind and grasp whatever you find in there. I’m going to do the same now: my idea is to have a service, a web application, that allows people to share their ideas with each other, and with entrepreneurs that are in a position to turn them into reality. They can also talk about them and improve them together. This will leave them with a better idea in the end.
 
-##Look For Similar Services
+## Look For Similar Services
 
 Chances are, you will find something similar. I found [Edison Nation Product Search]( http://www.edisonnation.com/searches), [youZingit.com]( http://www.youzingit.com/), and Genius Crowds, which has apparently [closed its doors in May]( http://www.crowdsourcing.org/editorial/genius-crowds-closes-its-doors/25946). Wow, I didn’t know ideas were worth so much! :-)
 
-##Compare
+## Compare
 
 “I found some similar services, but, my idea is a bit different!” Yes, so is mine. None of the ones I just searched seem to have sharing abilities. They are all one-sided; you submit your idea and you get paid. Mine is a bit different, though; mine encourages contributions, sharing and openness. The only service which partly shared my idea was Genius Crowds, and see what happened to it.
 
-##You’re a THIEF!
+## You’re a THIEF!
 
 Yes, you are a thief. I am a thief. We are all thieves. You have stolen those similar ideas and have added a bit, removed a bit of useless stuff from it, and have made it your own. It is not the same as those stuff you found, but it is similar if you look hard enough. In a sense, you’ve stolen those ideas—willingly or unwillingly—and have made them more appealing. Should you stop now and go search for a different idea?
 
 Of course not. You are doing what humans have been doing for many, many years. Ideas are rarely born from nothing; entrepreneurs are those that put things together, or find the problem that is facing a group of people, and come up with a solution to fix it. Entrepreneurs care about those they can touch, and they know that wealth will follow as a result.
 
-##Your heroes were thieves
+## Your heroes were thieves
 
 Don’t trust me? Here are some very convincing examples.
 
