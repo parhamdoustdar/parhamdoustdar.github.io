@@ -5,7 +5,7 @@ title: The Advantages of Being a Blind Programmer
 
 > Don't dread death or pain; dread the fear of death or pain. 
 >
-    > We cannot choose our external circumstances, but we can always choose how we respond to them. 
+> We cannot choose our external circumstances, but we can always choose how we respond to them. 
 
 -- Epictetus: The Art of Living 
 
