@@ -77,6 +77,7 @@ It is the decision we all have to confront in our lives: will we learn to play w
 Allow me to close this post with a quotation from the favorite song in my teens:
 
 > Like those who curse their luck in too many places
-    >
+
     >And those who fear are lost
+
 -- Sting: SHAPE OF MY HEART
