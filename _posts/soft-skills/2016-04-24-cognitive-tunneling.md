@@ -2,7 +2,6 @@
 layout: post
 title: Cognitive Tunneling: What It Is and How I Plan to Prevent It
 category: Soft Skills
-published: true
 ---
 
 You might have never heard about cognitive tunneling. However, chances are, you have sometimes been a victim of it without knowing it.
@@ -53,7 +52,7 @@ In other words, it was cognitive tunneling that killed their product.
 
 Cognitive tunneling is the mental state in which your brain hangs on to the thing that is closest to you or in front of you, and does not see the rest of the environment, or other, relevant data. Aas  Charles Duhigg says in his book called [Smarter Faster Better: The Secrets of Being Productive in Life and Business](http://www.amazon.com/Smarter-Faster-Better-Productive-Business-ebook/dp/B00Z3FRYB0):
 
-> Cognitive tunneling can cause people to become overly focused on whatever is directly in front of their eyes or become preoccupied with immediate tasks. It’s what keeps someone glued to their smartphone as the kids wail or pedestrians swerve around them on the sidewalk. It’s what causes drivers to slam on their brakes when they see a red light ahead.
+> Cognitive tunneling can cause people to become overly focused on whatever is directly in front of their eyes or become preoccupied with immediate tasks. Itâ€™s what keeps someone glued to their smartphone as the kids wail or pedestrians swerve around them on the sidewalk. Itâ€™s what causes drivers to slam on their brakes when they see a red light ahead.
 
 At an age where you could be eaten by a lion at any moment, cognitive tunneling would be probably very useful; you wouldn't need to process the shape of flowers and trees as you run past them, trying  to save your life. But at this age where we are under constant pressure at our home and workplace, it seems like cognitive tunneling is impairing us, rather than helping us perform better.
 
