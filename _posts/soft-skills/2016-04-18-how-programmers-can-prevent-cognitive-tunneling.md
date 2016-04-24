@@ -2,7 +2,7 @@
 layout: post
 title: Cognitive Tunneling: What It Is and How I Plan to Prevent It
 category: Soft Skills
-published: false
+published: true
 ---
 
 You might have never heard about cognitive tunneling. However, chances are, you have sometimes been a victim of it without knowing it.
@@ -57,12 +57,42 @@ Cognitive tunneling is the mental state in which your brain hangs on to the thin
 
 At an age where you could be eaten by a lion at any moment, cognitive tunneling would be probably very useful; you wouldn't need to process the shape of flowers and trees as you run past them, trying  to save your life. But at this age where we are under constant pressure at our home and workplace, it seems like cognitive tunneling is impairing us, rather than helping us perform better.
 
-We programmers are susceptible to this phenomenon, perhaps more than people in other industries. Just as cognitive tunneling caused [the tragic plane crash in Taipei](http://nautil.us/issue/23/dominoes/fear-in-the-cockpit), a mistake on our part can kill a product just as surely as a mistake among business owners.
+We programmers are susceptible to this phenomenon, perhaps more than people in other industries. Just as cognitive tunneling caused [the tragic plane crash in Taipei](http://nautil.us/issue/23/dominoes/fear-in-the-cockpit), a mistake on our part can kill a product just as surely as a mistake among business owners. Here is how you might have seen cognitive tunneling manifest itself in a development team:
 
-So how am I planning to fight cognitive tunneling?
+* APIs or classes are built, without creating a contract about using it in other parts of the system (i.e. a class in an application, a web service in a service-oriented architecture, and so on).
+* Code is written without taking the needs of the client into account. Client could mean the manager, the customer, or the UI team, or the native phone app that's going to send requests to your application.
+* Decisions are made only to solve the current situation, without getting a wider view of the circumstances. An obvious example for this is creating lots of virtual machines when the business doesn't have the means of storing snapshots or back-ups.
+
+Cognitive tunneling shows itself the most when quick reactions are required. What do you do when your biggest customer comes running to your manager, complaining that the latest code pushed to your repository has broken something that used to work? Do you pause to take a deep breath, consider the implications of your code, and run the tests before hitting save and pushing your code upstream, or do you rapidly type some code, do some preliminary manual tests and cross your fingers while you `git push`?
+
+We have all felt that momentary jolt when we realize that we haven't taken all the angles of a problem into account before proposing (and simetimes implementing) a solution. That, my friends, is you realizing that you have been hit by cognitive tunneling.
+
+I have learned about this phenomenon only recently. I used to think that it was only me, and that I'm stupid to be making such newbie mistakes. So when I found out the scientific name, it gave me the motivation to think up the ways to solve this. I am going to propose my methods, but I'd love to read your feedback in the comments, because alone we can do so little; together we can do so much.
 
 ## Reliable To-do List
 
+A lot of you might have heard of, or have read David Allen's [Getting Things Done: The Art of Stress-Free Productivity](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280). In this book, Allen proposes that since our brain is awful at remembering to-do lists and reminding us at the right place and the right time, we must create a so-called externalized brain to store all the stuff we need to do.
+
+For us developers, this doesn't always work. Most of the time, the path in front of us is unclear. We might begin writing a class, only to find that we need to update our compiler or interpreter, which would lead to a complete reinstall of the OS, and so on. Or, less drastically, we may start using a third-party library, and without knowing it intimately, we can't really create a detailed to-do list.
+
+But, still, a general to-do list can work wonders, simply because writing code requires a different mindset than finding out what needs to be written, and each has its own context that needs to be first loaded in your brain. So, having a simple task list (which could be as simple as `@TODO` comments in your code) can remove the need to switch back and forth between contexts.
+
+For example, the [Pomodoro technique](http://pomodorotechnique.com/) proposes that you write down tasks as the occur, and don't interrupt your workflow. When your pomodoro completes, you will have a list of tasks to pick from. So, even if you don't spend a pomodoro in the beginning of the day planning your activities, you can note down distractions and take care of them later.
+
 ## Pair Programming
 
+This is personally my favorite method! As an extroverted person, pair programming is awesome for me. For one thing, the person not sitting at the keyboard has a high-level view of the code and what needs to be done; he is in the planning mindset. At the same time, the other developer sitting at the keyboard is in the programming mindset, and is dealing with the code one line at a time. When the question is, "what algorithm can we use here?" or "should we implement it now or just go with another implementation to get this shipped faster?", the person in the planning mindset is there to give you your answer.
+
 ## Shortening the Feedback Loop
+
+I think that shortening the feedback loop as agile methodologies recommend has an extra benefit that you don't see mentioned much.
+
+Let's face it: we like to write code, use the latest stuff in our field, and keep learning. However, somewhere along the line, we are so taken with the steps in front of us that we don't see the bigger picture. We might start implementing a feature to send emails asynchronously, simply because we want to use this new message queue server that has just caught our fancy. We may want to rewrite our current application from scratch to use a different language, a different framework, or a different architecture.
+
+But, are these the right move, or are we suffering from [developer bias](http://mikeschinkel.com/blog/developerbias/)?
+
+The problem with bias is that you don't notice it's there. The only way to find out it exists is to check with someone else. No matter if it's a team mate, your CEO, or a friend, shipping features in smaller increments forces you to talk about what still needs to be done, and whether it must be done now.
+
+## Conclusion
+
+This was my two cents on how we can help the world more. Do you have a different opinion? Do you agree or disagree? Do you have another method you use to get your mental equilibrium back and prevent cognitive tunneling? Leave a comment!
