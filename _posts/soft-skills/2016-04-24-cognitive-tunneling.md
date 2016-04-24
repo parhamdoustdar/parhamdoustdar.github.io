@@ -9,7 +9,7 @@ You might have never heard about cognitive tunneling. However, chances are, you 
 
 To explain the phenomenon, let me tell you the story that inspireed this post first and let you see it and its results in action.
 
-A friend of mine used to work at a start-up where they were working on a website to sell cars online. In Iran, a website like that would be able to bring in huge amounts of money, simply because there are no competitors. If they would manage to get it right, they would be able to live happily ever after, and my friend would have the ultimate choice: retire early and live off his equity, or continue coding, enjoy what he did, and use his equity to do whatever he wanted. Maybe he'd started a gig on the side. Maybe he'd take a trip to the Canary Islands every month. He didn't know, but the power was utterly staggering.
+A friend of mine used to work at a start-up where they were working on a website to sell cars online. In Iran, a website like that would be able to bring in huge amounts of money, simply because there are no competitors. If they would manage to get it right, they would be able to live happily ever after, and my friend would have the ultimate choice: retire early and live off his equity, or continue coding, enjoy what he did, and use his equity to do whatever he wanted. Maybe he'd start a gig on the side. Maybe he'd take a trip to the Canary Islands every month. He didn't know, but the power was utterly staggering.
 
 He and a non-technical friend had co-founded this start-up together. He wasn't a fond of doing non-technical work since, like most of us, he wasn't really good at soft skills. However, he wanted to be part of the business side of things too because he wanted to learn. The fact that people could start a business and help lots of people was, and still is, very interesting to him. He wanted to know how it worked.
 
@@ -29,7 +29,7 @@ A few minutes later, there was a massive spike in visitors. People from differen
 
 After a few minutes, the traffic decreased, hung at 50 current visitors for a few minutes, then dropped to 0. At the same time, the bounce rate was going higher and higher, and as it increased, they could feel the ground drop out from under their feet.
 
-Their first mistake was that they panicked. They frantically searched the web, looked at their Google Analytics data, and tried to find the reason for why people hadn't loved their product. They looked for patterns in visitors to see if they had done anything that had caused a bug, or if they had been pushed away by the web application's look and feel. However, no matter how hard they tried, the data yielded no definite, useful information.
+Their first mistake was that they panicked and didn't consider the problem from every angle. They frantically searched the web, looked at their Google Analytics data, and tried to find the reason for why people hadn't loved their product. They looked for patterns in visitors to see if they had done anything that had caused a bug, or if they had been pushed away by the web application's look and feel. However, no matter how hard they tried, the data yielded no definite, useful information.
 
 A few minutes later, the investor called, asking for the results. As you can probably imagine, he wasn't happy about what he heard, and demanded a meeting.
 
@@ -37,13 +37,13 @@ So the day of the launch, which was supposed to be a day of celebration, turned 
 
 The next day, my friend was recharged by the ideas proposed in the meeting of the day before. He pushed down his fear of failure and pressed on, determined to see this venture to success. After two months, the golden feature was implemented. 
 
-Again the day of the big launch came. Again they waited, and again, after a spike, visitors dropped to zero. So instead of trying to find the underlying reason, they held on to the first thing that was in front of them -- the application. That was the day that application was doomed to fail. The next month, they were drained, tired and disheartened. The next month, their group was disbanded.
+Again the day of the big launch came. Again they waited, and again, after a spike, visitors dropped to zero. So instead of trying to find the underlying reason, they held on to the first thing that was in front of them -- the application. That was the day that application was doomed to fail. The next month, they were drained, tired and disheartened. The month after that, their group was disbanded.
 
 What was the reason, though? Why was there an initial spike, but then nothing. Why had they failed? Why had the bounce rate been so high?
 
 That was the question that haunted my friend since that day. He spoke to a lot of visitors and his friends and relatives who had visited the site. Bit by bit, he coaxed the information out from raw data, just like a data scientist taking his first baby steps. And slowly, something totally unexpected started to emerge.
 
-He finally found why there was an initial spike: people had visited their website only to see what it was about. They liked what they saw, but since the messages were sent out at the middle of the day when people were working, they had decided to leave and come back later in the day, or the week.
+He finally found why there was an initial spike: people had visited their website only to see what it was about. They liked what they saw, but since the messages were sent out at the middle of the day when people were working, they had decided to leave and come back later in the day, or the week. When they had come back, the website failed to load because they had taken it down.
 
 You got it right. There was nothing wrong with the application. It could have been a big success, if only my friend, the other co-founder, and the investor would not have been so fixated on finding what was wrong with their application, and had instead tried to get the whole picture.
 
@@ -75,9 +75,9 @@ A lot of you might have heard of, or have read David Allen's [Getting Things Don
 
 For us developers, this doesn't always work. Most of the time, the path in front of us is unclear. We might begin writing a class, only to find that we need to update our compiler or interpreter, which would lead to a complete reinstall of the OS, and so on. Or, less drastically, we may start using a third-party library, and without knowing it intimately, we can't really create a detailed to-do list.
 
-But, still, a general to-do list can work wonders, simply because writing code requires a different mindset than finding out what needs to be written, and each has its own context that needs to be first loaded in your brain. So, having a simple task list (which could be as simple as `@TODO` comments in your code) can remove the need to switch back and forth between contexts.
+But, still, a general to-do list can work wonders, simply because writing code requires a different mindset than finding out and planning what needs to be written, and each has its own context that needs to be first loaded in your brain. So, having a simple task list (which could be as simple as `@TODO` comments in your code) can remove the need to switch back and forth between contexts.
 
-For example, the [Pomodoro technique](http://pomodorotechnique.com/) proposes that you write down tasks as the occur, and don't interrupt your workflow. When your pomodoro completes, you will have a list of tasks to pick from. So, even if you don't spend a pomodoro in the beginning of the day planning your activities, you can note down distractions and take care of them later.
+For example, the [Pomodoro technique](http://pomodorotechnique.com/) proposes that you write down tasks as they occur to you while coding, and don't interrupt your workflow. When your pomodoro completes, you will have a list of tasks to pick from. So, even if you don't spend a pomodoro in the beginning of the day planning your activities, you can note down distractions and take care of them later.
 
 ## Pair Programming
 
@@ -89,7 +89,7 @@ I think that shortening the feedback loop as agile methodologies recommend has a
 
 Let's face it: we like to write code, use the latest stuff in our field, and keep learning. However, somewhere along the line, we are so taken with the steps in front of us that we don't see the bigger picture. We might start implementing a feature to send emails asynchronously, simply because we want to use this new message queue server that has just caught our fancy. We may want to rewrite our current application from scratch to use a different language, a different framework, or a different architecture.
 
-But, are these the right move, or are we suffering from [developer bias](http://mikeschinkel.com/blog/developerbias/)?
+But, are these the right moves, or are we suffering from [developer bias](http://mikeschinkel.com/blog/developerbias/)?
 
 The problem with bias is that you don't notice it's there. The only way to find out it exists is to check with someone else. No matter if it's a team mate, your CEO, or a friend, shipping features in smaller increments forces you to talk about what still needs to be done, and whether it must be done now.
 
