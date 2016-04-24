@@ -4,7 +4,7 @@ title: My Résumé
 permalink: /cv/
 ---
 
-#Parham Doustdar
+# Parham Doustdar
 
 - Tehran, Iran
 - +98-902-7274-263
@@ -28,7 +28,7 @@ I hope to use my skills to make the world a wonderful place; even better than it
 
 ---
 
-##Experience
+## Experience
 
 **PHP Programmer**, TENA, *April 2014 – Current*
 
@@ -75,7 +75,7 @@ yii
 
 ---
 
-##Education
+## Education
 
 **Associates**, Western Tehran Azad Islamic University, *2008 – 2010*
 
@@ -88,7 +88,7 @@ And the great thing is, I never studied. I couldn&#39;t, because I didn&#39;t ha
 ---
 
 
-##Projects &amp; Interests
+## Projects &amp; Interests
 
 **ConnectTheDoc**, [http://www.connectthedoc.com/](http://www.connectthedoc.com/)
 
@@ -120,7 +120,7 @@ I was responsible for the API endpoints providing information to monitoring syst
 
 ---
 
-##Writing
+## Writing
 
 **Re-introducing PDO: the Right Way to Access Databases**, [http://www.sitepoint.com/re-introducing-pdo-the-right-way-to-access-databases-in-php/](http://www.sitepoint.com/re-introducing-pdo-the-right-way-to-access-databases-in-php/)
 
