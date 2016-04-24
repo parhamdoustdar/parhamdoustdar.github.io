@@ -5,6 +5,7 @@ permalink: /cv/
 ---
 
 #Parham Doustdar
+
 - Tehran, Iran
 - +98-902-7274-263
 - parham90@gmail.com
@@ -18,12 +19,15 @@ I have always striven to write awesome code, have strong communication with my p
 I hope to use my skills to make the world a wonderful place; even better than it already is!
 
 ---
+
 ## Technical Skills
+
 **Likes:** php, symfony2, application-architecture, agile, extreme-programming, tdd, laravel, phalcon, web-services, go
 
 **Dislikes:** html, html5, css, javascript
 
 ---
+
 ##Experience
 
 **PHP Programmer**, TENA, *April 2014 – Current*
@@ -140,13 +144,15 @@ Parham Doustdar builds a leaderboard app with Silex and Github&#39;s API in whic
 ---
 
 ## Tools
+
 **First Computer:** Intel Pentium 166 MHz desktop CPU
 
 **Favorite Editor:** Zend Studio
 
 ## Background
+
 I&#39;m a completely blind programmer that got to learn programming with no books in his first language, Farsi. I learned programming by reading books from wonderful authors, and getting to know them through their books as my mentors.
 
 From the first day I went to work, I was regarded as a senior programmer, due to the knowledge I had gathered while playing around at home. Since I like meeting new people, getting to know them, and learn from them. I began learning from anyone who knew something more than me, and quickly drew myself up to be regarded as a programmer that delivers high-quality work that allows everyone to sleep easy at night.
 
-Do you want to hire me? You can do so using the [contact](/contact) form!
+**Do you want to hire me? You can do so using the [contact](/contact) form!**
