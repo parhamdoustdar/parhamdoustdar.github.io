@@ -2,7 +2,7 @@
 layout: post
 title: "Cognitive Tunneling: What It Is and How I Plan to Prevent It"
 date: 2016-04-24
-category: Soft Skills
+category: soft-skills
 ---
 
 You might have never heard about cognitive tunneling. However, chances are, you have sometimes been a victim of it without knowing it.
