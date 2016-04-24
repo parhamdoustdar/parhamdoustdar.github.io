@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cognitive Tunneling: What It Is and How I Plan to Prevent It
+date: 2016-04-24
 category: Soft Skills
 ---
 
