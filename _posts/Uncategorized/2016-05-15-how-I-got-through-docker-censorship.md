@@ -9,7 +9,7 @@ One thing most people don't know is that Iranians are blocked from both sides. W
 
 Docker is one of these companies. You shouldn't really hate them because they are doing what they have to do. However, as a web programmer, I need to know these things. I'm trying to get a job outside of Iran and relocate, and knowing stuff like Docker seems to be a huge deal right now.
 
-A few days ago I got a call from a lady that is studying her Masters degree in computer science (can you believe it?). She, like me, had trouble getting through the Docker censorship. She was quite resourceful and ended up succeeding on her own, but I thought I'd post how I do it nonetheless.
+A few days ago I got a call from a lady that is studying her Masters degree in computer science. The ratio of women to men programmers is even lower in Iran than other places, so it was very refreshing for me to see a woman trying out a fairly not-so-popular tool in Iran. She, like me, had trouble getting through the Docker censorship. She was quite resourceful and ended up succeeding on her own, but I thought I'd post how I do it nonetheless.
 
 ## The Problem
 
