@@ -46,13 +46,31 @@ if (File_exists($file ) && SomeTest($contents = get_file_contents($file))) {
 to this:
 
 ```
-if (File_exists(file)) {
+function getFileContents($file)
+{
+    if (!File_exists($file)) {
+        return null;
+    }
+    
     $contents = file_get_contents($file);
-    DoSomething($contents);
+    
+    if (someTest($file)) {
+        return null;
+    }
+    
+    return $contents;
+}
+
+$contents = getFileContents($file);
+
+if (!is_null($contents) {
+    doSomething($contents);
 } else {
-    DefaultAction();
+    defaultAction();
 }
 ```
+
+(Example adapted from a question on [StackOverflow][]).
 
 Or, when I have to ask someone politely a million times to stop doing something like this:
 
@@ -111,3 +129,4 @@ What do you think about technical interviews? Have you had success using them fo
 
 [HackerRank]: https://www.hackerrank.com/
 [Codility]: https://codility.com/
+[StackOverflow]: http://programmers.stackexchange.com/questions/122485/elegant-ways-to-handle-ifif-else-else
