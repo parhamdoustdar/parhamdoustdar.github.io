@@ -164,7 +164,7 @@ world was becoming a better place because of what I was doing at work,
 and realizing that in two years of living in the Netherlands, I had
 earned myself just about five friends.
 
-# The Book,
+# The Book
 
 A few days ago, one of the five people I call a friend suggested that
 I read a book called Lost Connections. "This book is about
