@@ -249,13 +249,14 @@ ask ourselves these questions very often:
 - Do I feel like I have a bright future?
 
 The key is that when the answer to any of these is not what you like,
-you should put it as one of your top priorities to fix it. The world
-doesn't wait for you to catch up, and you can't be a completely
-responsible individual if your conditions are not ideal.
+fixing it should be one of your top priorities. The world doesn't wait
+for you to catch up, and you can't take complete responsibility of
+your own life if your environmental conditions are not ideal.
 
 Don't wait for others to come and help you. Don't be like me. Chances
 are, people around you don't even realize the severity and extent of
 what you're going through. I wish this wasn't true, but the only
-person who can help you is you, until you teach others to help you, too.
+person who can help you is you, until you can teach others to help
+you, too.
 
 [Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solution]: https://www.amazon.com/Lost-Connections-Uncovering-Depression-Unexpected-ebook/dp/B075RTJV67/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=

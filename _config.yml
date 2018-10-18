@@ -2,7 +2,7 @@
 title:       Parham Doustdar's Blog
 email:       me@parhamdoustdar.com
 author:      Parham Doustdar
-description: "The Life of a Completely Blind Iranian Programmer"
+description: "The Life of a Completely Blind Programmer in the Netherlands"
 baseurl:     ""
 url:         "https://www.parhamdoustdar.com"
 encoding: UTF-8
@@ -29,7 +29,7 @@ facebook_username: parham90
 google_plus_id:
 linkedin_username: parhamdoustdar
 angellist_username:
-medium_id:
+medium_id: parhamdoustdar
 bitcoin_url:
 paypal_url: http://paypal.me/pdoustdar
 flattr_button:
@@ -56,5 +56,5 @@ permalink:    pretty
 paginate:     5
 sass:
   compressed: true
-gems:
+plugins:
   - jekyll-sitemap
