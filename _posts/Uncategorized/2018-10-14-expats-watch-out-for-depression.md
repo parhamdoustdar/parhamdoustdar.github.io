@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expats: Watch Out for Depression!
+title: "Expats: Watch Out for Depression!"
 date: 2018-10-14
 category: Uncategorized
 ---
