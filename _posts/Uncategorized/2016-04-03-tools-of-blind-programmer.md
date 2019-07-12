@@ -89,7 +89,7 @@ I use Trello to create lists of things I need to do. The interface isn't easy to
 
 For my social networking, I use [TWBlue](http://twblue.es/) to use Twitter, and the Facebook website. I do go on [Quora](https://www.quora.com) to answer questions, but it's not a part of my daily routine.
 
-My creativity process is pretty different, and unfortunately, I don't have access to people who are good enough with things like [Neuro-linguistic programming](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) to find this out on my own. The problem is that the kind of stimulation that a [mind map](https://en.wikipedia.org/wiki/Mind_map) provides for someone who does see, is not provided to me when I just write things down.
+My creativity process is pretty different, and unfortunately, I don't have access to people who are good enough with things like [Neuro-linguistic programming](https://inlpcenter.org/what-is-neuro-linguistic-programming-nlp/) to find this out on my own. The problem is that the kind of stimulation that a [mind map](https://en.wikipedia.org/wiki/Mind_map) provides for someone who does see, is not provided to me when I just write things down.
 
 I'm not as okay with the productivity tools I have chosen as I am with my programming tools. I have to play around more to either find, or try and create the perfect solution for myself.
 
