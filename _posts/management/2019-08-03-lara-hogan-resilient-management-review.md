@@ -128,12 +128,12 @@ This is a concept that I first got to read about in Ron Friedman's
 year. It percolated in my brain for a while, until I found [The Power
 of Full
 Engagement](https://www.amazon.com/Power-Full-Engagement-Managing-Performance/dp/0743226755),
-which argues that managing performance, not time, is the key to high
+which argues that managing energy, not time, is the key to high
 performance.
 
 For me, personally, high performance is not the highest priority right
-now. I'm more interested in sustainable performance, where you don't
-have great output one day and can get nothing done the following week.
+now. I'm more interested in sustainable performance, where your output
+and performance is more predictable.
 
 However, the way Lara looks at it is a bit different. In her calendar,
 she colors her meetings based on what kind of "brain" they use. She talks about
@@ -149,7 +149,7 @@ activities like this, or how she got to this conclusion, but if it
 works for you, feel free to use it. For me, personally, I need to try
 it out in real life to see how it works.
 
-But first, i should figure out what to substitute for colors in my calendar!
+But first, I should figure out what to substitute for colors in my calendar!
 
 ## My Final Recommendation
 
@@ -167,7 +167,7 @@ packed in this book, and there is a very high chance that you will
 glaze over something that doesn't apply to you at the time. So, keep
 it handy, and refer to it often!
 
-## What About YOu?
+## What About You?
 
 Have you read Lara Hogan's book? What was your take on it? What did
 you like or dislike about it? For that matter, what did you like or
