@@ -6,31 +6,36 @@ permalink: /cv/
 
 # Parham Doustdar
 
-- Tehran, Iran
-- +98-902-7274-263
+- Almere, the Netherlands
+- +31-6-4720-7253
 - parham90@gmail.com
 - http://www.parhamdoustdar.com
 
+I'm currently a manager and back-end developer working in Booking.com core infrastructure as part of the team developing [Shipper](https://github.com/bookingcom/shipper).
 
-I am a back-end developer that keeps up-to-date with the latest emerging technologies and best practices. These include new languages, PHP frameworks, design and architectural patterns, and tools.
+At work, I help our team feel better, be more productive and grow. I'm a manager since February of 2019, so I have a lot to learn.
 
-I have always striven to write awesome code, have strong communication with my peers and managers/leaders, and that has resulted in me having lots of steadfast friends everywhere I&#39;ve worked. Despite my age and my country, I&#39;ve always tried to reach beyond borders and my dream has been to touch the lives of my fellow humans in a positive way.
-
-I hope to use my skills to make the world a wonderful place; even better than it already is!
+At home, I play the piano, read books on psychology and management, and try out different kinds of food with my wife, Bita.
 
 ---
 
 ## Technical Skills
 
-**Likes:** php, symfony2, application-architecture, agile, extreme-programming, tdd, laravel, phalcon, web-services, go
+**Likes:** Go
 
-**Dislikes:** html, html5, css, javascript
+**Dislikes:** html, css, javascript, perl, node.js, ruby
 
 ---
 
 ## Experience
 
-**PHP Programmer**, TENA, *April 2014 – Current*
+**Team Lead & Developer**, Booking.com, *September 2016 – Current*
+
+- I've been a team lead and member in the deployment team that came up with and created [Shipper](https://github.com/bookingcom/shipper), which is Booking.com's open-source project to make rolling out a multi-cluster application on Kubernetes an enjoyable experience.
+
+---
+
+**PHP Programmer**, TENA, *April 2014 – July 2016*
 
 phalcon, phpunit, codeception, vagrant, liquibase, zabbix, mockery, go, java, android, redis, puppet
 
@@ -120,6 +125,10 @@ I was responsible for the API endpoints providing information to monitoring syst
 
 ---
 
+**Shipper**, [https://github.com/bookingcom/shipper](https://github.com/bookingcom/shipper)
+
+Shipper is an extension for Kubernetes to add sophisticated rollout strategies and multi-cluster orchestration. It lets you use kubectl to manipulate objects which represent any kind of rollout strategy, like blue/green or canary. These strategies can deploy to one cluster, or many clusters across the world.
+
 ## Writing
 
 **Re-introducing PDO: the Right Way to Access Databases**, [http://www.sitepoint.com/re-introducing-pdo-the-right-way-to-access-databases-in-php/](http://www.sitepoint.com/re-introducing-pdo-the-right-way-to-access-databases-in-php/)
@@ -138,7 +147,6 @@ Parham Doustdar talks about a much ignored issue in the world of coding - access
 
 **Popular Users per Language and Region with Silex and Github**, [http://www.sitepoint.com/popular-users-per-language-region-silex-github/](http://www.sitepoint.com/popular-users-per-language-region-silex-github/)
 
-
 Parham Doustdar builds a leaderboard app with Silex and Github&#39;s API in which you can easily find out the most popular users of a language in a region
 
 ---
@@ -147,12 +155,14 @@ Parham Doustdar builds a leaderboard app with Silex and Github&#39;s API in whic
 
 **First Computer:** Intel Pentium 166 MHz desktop CPU
 
-**Favorite Editor:** Zend Studio
+**Favorite Editor:** Emacs + Emacspeak
 
 ## Background
 
 I&#39;m a completely blind programmer that got to learn programming with no books in his first language, Farsi. I learned programming by reading books from wonderful authors, and getting to know them through their books as my mentors.
 
 From the first day I went to work, I was regarded as a senior programmer, due to the knowledge I had gathered while playing around at home. Since I like meeting new people, getting to know them, and learn from them. I began learning from anyone who knew something more than me, and quickly drew myself up to be regarded as a programmer that delivers high-quality work that allows everyone to sleep easy at night.
+
+In 2016, I was hired by Booking.com, where i had the experience of being surrounded by people who knew a lot more than I did. After working my way through the initial confusions of being the one and only developer who was completely blind, I started managing the Lifecycle team in the February of 2019.
 
 **Do you want to hire me? You can do so using the [contact](/contact) form!**
