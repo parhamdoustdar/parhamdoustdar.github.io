@@ -61,7 +61,7 @@ something--anything--after finishing it.
 I assume that since this book is for beginning managers, Lara is
 trying to give a broader overview of all the parts of the job, rather
 than providing enough content to make a beginner totally
-confident. Look beow in the section about my recommendation to see how
+confident. Look below in the section about my recommendation to see how
 I suggest remedying this.
 
 Another thing was the figures. I emailed Lara herself about this, and
