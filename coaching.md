@@ -18,6 +18,9 @@ You're in your 20s or 30s.
 You have a job where you have to be a thinker, a creator, or a
 strategizer.
 
+Maybe you feel like an imposter, like you got where you are by "luck"
+or through "coincidences".
+
 Maybe you like to do more, but you don't know how.
 
 Maybe you've done things that you're proud of, but now you feel lost.
