@@ -9,7 +9,7 @@ permalink: /cv/
 - Almere, the Netherlands
 - +31-6-4720-7253
 - parham90@gmail.com
-- http://www.parhamdoustdar.com
+- https://www.parhamdoustdar.com
 
 I'm currently a manager and back-end developer working in Booking.com core infrastructure as part of the team developing [Shipper](https://github.com/bookingcom/shipper).
 
@@ -31,7 +31,8 @@ At home, I play the piano, read books on psychology and management, and try out 
 
 **Team Lead & Developer**, Booking.com, *September 2016 – Current*
 
-- I've been a team lead and member in the deployment team that came up with and created [Shipper](https://github.com/bookingcom/shipper), which is Booking.com's open-source project to make rolling out a multi-cluster application on Kubernetes an enjoyable experience.
+- I've been a team lead and member in the team that came up with and created [Shipper](https://github.com/bookingcom/shipper), which is Booking.com's open-source project to make rolling out a multi-cluster application on Kubernetes an enjoyable experience.
+- I am the vice chair of B.Able, which is an internal employee resource group to create an environment where people with diverse physical and neurological needs feel supported to do their best work.
 
 ---
 
@@ -39,7 +40,8 @@ At home, I play the piano, read books on psychology and management, and try out 
 
 phalcon, phpunit, codeception, vagrant, liquibase, zabbix, mockery, go, java, android, redis, puppet
 
-- I rewrote the company&#39;s legacy code, reducing bugs to zero and making the software maintainable.
+- I mentored my fellow developers and kept them motivated. One developer went on to become a vice-president of in his next job, and another went on to become a skilled front-end developer with a career
+- I rewrote the company's legacy code, reducing bugs to zero and making the software maintainable. This allowed new features to be added a lot faster, and allowed business owners to gather data on metrics they had no visibility into before.
 - I introduced unit testing to the business, setting a standard of above 95% and sticking to it. This drastically lowered the number of regressions in our software.
 - I introduced a service-oriented architecture to promote high-availability clusters, easier scaling of services, and making applications manageable.
 - I helped our devOps team manage micro-services through writing automated Puppet scripts.
@@ -52,31 +54,22 @@ phalcon, phpunit, codeception, vagrant, liquibase, zabbix, mockery, go, java, an
 
 yii, phpunit, fitnesse
 
-* Create and manage processes that would serve alongside XP (extreme programming) and/or Kanban
-* Create APIs and libraries, used by the controller and view layers of the application
-* Use the Facebook graph API through insights and publishing content
-* Manage and ensure delivery of one of the three core values the application offers, marketing. This includes presenting information in graphs from local data and Facebook, and creating a framework for expanding on the number of supported platforms easily
-* Train the team in utilizing PHP and to perform well after my departure from the company
+* Mentored my fellow developers to write better code and improve their communication skills
+* Created and managed processes that would serve alongside XP (extreme programming) and/or Kanban, making it easier for the product team and developers to communicate
+* Created APIs and libraries, used by the controller and view layers of the application. This allowed less senior developers to write code faster
+* Worked on essential parts of Business-X, like the sign up procedure and importing content from other social media
+* Managed a team delivering the "marketing" subset of features. This included presenting information in graphs from local data and Facebook, and creating a framework so that other platforms could easily be added in the future
 
 ---
 
 **Web Developer, SEO Specialist**, Smartt, *March 2011 – March 2013*
 
-yii
+yii, Groovy
 
-* Analyze user&#39;s requirements, and design and develop system architecture and specifications
-* Maintain existing computer programs by making modifications as required
-* Identify and communicate technical problems, processes and solutions
-* Prepare reports, manuals and other documentation on the status, operation and maintenance of software
-* Develop Web site architecture
-* Plan, design, write, modify, integrate and test Web-site related code 
-* Conduct tests and perform security and quality controls
-* Introduce and implement web accessibility (ARIA) standards
-* Design and create relational database schemas
-* Create A3 reports and standard operating procedures
-* Analyze and improve systematic processes using problem-solving techniques
-* Identify and implement on-site SEO best practices
-* Execute off-site SEO techniques
+* Mentored my fellow developers to write better code, and communicate better
+* Talked to customers in person and turned their requirements into specification
+* Worked on ConnectTheDoc, which is a platform to connect patients to doctors. This ended up being one of the projects that brought in the highest amount of revenue
+* Worked on CheetahWorks, which was an internal application written in Groovy to allow employees in Iran and Canada to collaborate. This turned into _the_ tool for coordinating tasks across teams
 
 ---
 
@@ -86,12 +79,7 @@ yii
 
 visual-basic, .net, php, postgresql, operating-system, vbscript
 
-Although there is a lot of discrimination going in Iran against the disabled, and the studying conditions are very poor, I achieved a 20 (in Iran, grades are calculated out of 20; that means I got a 100) in every programming-related course. The only courses I didn&#39;t get a 20 in were the ones that required illustrating graphs and structures that I obviously can&#39;t do, as I&#39;m blind.
-
-And the great thing is, I never studied. I couldn&#39;t, because I didn&#39;t have books in a format available to the blind. All of the grades I got, adding up to a GPA of 17.31 out of 20, were achieved by things I myself knew. I learned nothing new in the university, and that&#39;s why I quit academic studies after this degree.
-
 ---
-
 
 ## Projects &amp; Interests
 
@@ -159,10 +147,23 @@ Parham Doustdar builds a leaderboard app with Silex and Github&#39;s API in whic
 
 ## Background
 
-I&#39;m a completely blind programmer that got to learn programming with no books in his first language, Farsi. I learned programming by reading books from wonderful authors, and getting to know them through their books as my mentors.
+I'm a completely blind manager. I began as a developerthat got to
+learn programming with no books in his first language, Farsi. I
+learned programming by reading books from wonderful authors, and
+getting to know them through their books as my mentors.
 
-From the first day I went to work, I was regarded as a senior programmer, due to the knowledge I had gathered while playing around at home. Since I like meeting new people, getting to know them, and learn from them. I began learning from anyone who knew something more than me, and quickly drew myself up to be regarded as a programmer that delivers high-quality work that allows everyone to sleep easy at night.
+From the first day I went to work, I was regarded as a senior
+programmer, due to the knowledge I had gathered while playing around
+at home. Since I like meeting new people, getting to know them, and
+learn from them, I began learning from anyone who knew something more
+than me, and quickly drew myself up to be regarded as a programmer
+that delivers high-quality work that allows everyone to sleep easy at
+night.
 
-In 2016, I was hired by Booking.com, where i had the experience of being surrounded by people who knew a lot more than I did. After working my way through the initial confusions of being the one and only developer who was completely blind, I started managing the Lifecycle team in the February of 2019.
+In 2016, I was hired by Booking.com, where i had the experience of
+being surrounded by people who knew a lot more than I did. After
+working my way through the initial confusions of being the one and
+only developer who was completely blind, I started managing the
+Shipper team in the February of 2019.
 
 **Do you want to hire me? You can do so using the [contact](/contact) form!**
