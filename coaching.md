@@ -4,9 +4,59 @@ title: Coaching
 permalink: /coaching/
 ---
 
-## Allow Me to Support You to Dream Bigger, Then Make It Real
+## Allow me to support you to dream bigger, then make it real
 
-### You
+### What is coaching?
+
+It's very hard to define coaching. Since it is an intimate, personal
+service, every coach does it their own way. That's why most coaches,
+including me, offer a free, no-obligation coaching session where you
+get to experience being coached by that person for yourself.
+
+What I can do, though, is to give you my definition of coaching, which
+would hopefully let you get an idea of how *I* do coaching.
+
+Coaching is a way to accelerate toward your goals. It's like having a
+human jetpack, who truly believes in your potential, whose only agenda
+is to help you go farther faster.
+
+The beauty of coaching is that your goal could be anything. It could
+be finding love. It could be improving your work-life balance. It
+could be a better relationship with your family. It could be a better
+rapport with your boss, or more productivity, or getting promoted.
+
+It could also be something as vague as wanting to be more fulfilled at
+work, or in your personal life.
+
+Whatever it is, we will work together to find out what it is you
+really, really want, and then we'll devise a plan on how to get there.
+
+You are the one who decides what we discuss in every session. You
+could discuss your progress toward your goal. You could discuss a
+latest development in your life that scares you, or makes you happy.
+
+My role here is *not* to give you solutions and opinions. My role is
+*not* to push you to do something you're not comfortable committing
+to. My role is *not* to make a goal for you. I will provide
+suggestions and opinions if you want, but it's only when you
+explicitly ask for it.
+
+My role is to do three very important things: ask powerful questions
+to make you think and gain clarity, agree on a homework with you so
+that you implement what you already know, and keep you accountable so
+that you actually make progress, every, single, day.
+
+Think about that. Imagine how it would feel like to improve 1% a
+day. Imagine that 1% compounding so you accelerate, and do things you
+never thought were possible.
+
+Can you feel your heart beginning to race? Can you feel your lips
+curling into a smile? Can you feel the exhilarating energy of
+possibilities?
+
+Now you know how it feels to have a human jetpack, in real life.
+
+### Who are you?
 
 You'd like to give coaching a try. Maybe you’ve heard about it. Maybe
 you had a coach before. Coaching is an experience, and if you don’t
@@ -36,7 +86,7 @@ completely free, no obligation session where we go deep into your
 dreams, your goals, and your needs, or keep on reading to know more
 about me.
 
-### Me
+### Who am I?
 
 Hi. My name is Parham. I'm a completely blind coach, team lead and
 developer.
@@ -57,8 +107,8 @@ believed in my potential, so I didn't believe in myself either.
 The result was that I achieved more and more, but not because of
 having an impact, growing, or realizing my potential.
 
-I only did it to prove everyone else wrong. Maybe, if they believed
-that I was worthy, I myself would also believe it, too.
+I only did it to prove everyone else wrong. "Maybe, if they believe
+that I was worthy," I thought, " I myself would also believe it, too."
 
 I never had someone who would call BS on lies I was telling myself. I
 never had someone who would remind me that I could dream bigger, and
@@ -76,19 +126,20 @@ I have been reading self-help books since I was thirteen. However,
 those books only gave me knowledge, not results. All they gave me were
 the "should"s – I could recite how many books Warren Buffett read in a
 day, what Elon Musk thought about failure, how I should behave to win
-friends and influence people, how habits work, and all that.
+friends and influence people, all the atomic habits I should build and
+all that.
 
 But I didn't know how to react when my boss slammed the door in my face.
 
 I didn't know what to do when I failed interview after interview, and
-I felt like an imposter.
+felt like an imposter.
 
 I didn't know what to do when I achieved my biggest dream, and it
 didn't feel as rewarding as I had imagined it would. Instead, I felt
 empty, aimless, and dangerously close to depression.
 
-It was only then, in 2018, when I got introduced to coaching for the
-very first time.
+In 2018, through one of my managers, I got introduced to coaching for
+the very first time.
 
 In a short time, I realized that just by having someone who was
 rooting for me, life could be a lot less painful, and I could make
@@ -97,15 +148,24 @@ changed, but because my coaches helped me see what I could do, that I
 was lying to myself, that I had so many resources at my disposal that
 I wasn't allowing myself to use.
 
-That's why I believe that coaching *will* transform your life. And I'd love to show you how.
+In a couple of weeks, I found out that I wanted to work with people,
+and not with code. So we came up with a plan so that I'd be promoted
+to a team lead. I started "acting" like a manager, and one day, one of
+the seniors in my team asked my manager to promote me.
+
+In only three months, I learned to dream, and make it real.
+
+That's why I believe that coaching *will* transform your life. And I'd
+love to show you how.
 
 Click [here](https://calendly.com/parhamdoustdar/clarity) to book a
 free, no obligation session with me, where I will show you the
 transformational power of coaching by serving you in the best way
 possible – by helping you dream bigger, then make it real.
 
-## Not sure yet?
+## Not ready yet?
 
-It's okay. Enter your email below to be added to my mailing list. You can get to know me over time, and reach out when you're ready.
+It's okay. Enter your email below to be added to my mailing list. You
+can get to know me over time, and reach out when you're ready.
 
 {% include buttondown.html %}
