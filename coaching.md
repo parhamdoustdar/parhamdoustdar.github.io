@@ -41,18 +41,17 @@ to. My role is *not* to make a goal for you. I will provide
 suggestions and opinions if you want, but it's only when you
 explicitly ask for it.
 
-My role is to do three very important things: ask powerful questions
-to make you think and gain clarity, agree on a homework with you so
-that you implement what you already know, and keep you accountable so
-that you actually make progress, every, single, day.
+My role is to do three very important things: *ask powerful questions
+to make you think and gain clarity*, *agree on a homework with you so
+that you implement what you already know*, and *keep you accountable so
+that you actually make progress, every, single, day*.
 
 Think about that. Imagine how it would feel like to improve 1% a
 day. Imagine that 1% compounding so you accelerate, and do things you
 never thought were possible.
 
-Can you feel your heart beginning to race? Can you feel your lips
-curling into a smile? Can you feel the exhilarating energy of
-possibilities?
+Can you feel your heart beginning to race? Can you feel the
+exhilarating energy of possibilities?
 
 Now you know how it feels to have a human jetpack, in real life.
 
@@ -60,8 +59,8 @@ Now you know how it feels to have a human jetpack, in real life.
 
 You'd like to give coaching a try. Maybe you’ve heard about it. Maybe
 you had a coach before. Coaching is an experience, and if you don’t
-even want to bring yourself to try a free, no obligation two-hour
-session to experience it, we can’t work together.
+even want to bring yourself to try a free, no obligation session to
+experience it, we can’t work together.
 
 You're in your 20s or 30s.
 
@@ -71,20 +70,22 @@ strategizer.
 Maybe you feel like an imposter, like you got where you are by "luck"
 or through "coincidences".
 
-Maybe you like to do more, but you don't know how.
+Maybe you like to do more, to grow, but you don't know how.
 
 Maybe you've done things that you're proud of, but now you feel lost.
 
 Maybe you know where you should go, and you have a hypothetical idea
-of how to get there, but you can't seem to move in that direction.
+of how to get there, but you can't seem to move.
 
 Maybe you are achieving a lot at work, but you're realizing that your
 relationships outside work need some... well, work. 😎
 
-Click [here](https://calendly.com/parhamdoustdar/clarity) to book a
-completely free, no obligation session where we go deep into your
-dreams, your goals, and your needs, or keep on reading to know more
-about me.
+Click [here](https://calendly.com/parhamdoustdar/chat) to book a no
+obligation session to chat. If we are both a "hell YES!", we can set
+up a free session to go deep into your dreams, your goals, and your
+needs.
+
+Want to know me more first? Keep on reading.
 
 ### Who am I?
 
@@ -99,7 +100,9 @@ kept telling me no one will ever hire a blind person. About how I
 learned to stand up for myself and marry the woman I love despite
 disapproval from my parents. About how I became so good that
 Booking.com hired me as an expat and sponsored me to move to the
-Netherlands.
+Netherlands. About how I led a team that created the solution that was
+the gateway to one of the biggest moves in Booking.com's history: to
+modernize the way software was written and deployed.
 
 I could boast, but the reality is, I never had someone who *truly*
 believed in my potential, so I didn't believe in myself either.
@@ -108,7 +111,7 @@ The result was that I achieved more and more, but not because of
 having an impact, growing, or realizing my potential.
 
 I only did it to prove everyone else wrong. "Maybe, if they believe
-that I was worthy," I thought, " I myself would also believe it, too."
+that I am worthy," I thought, " I myself would also believe it, too."
 
 I never had someone who would call BS on lies I was telling myself. I
 never had someone who would remind me that I could dream bigger, and
@@ -158,10 +161,12 @@ In only three months, I learned to dream, and make it real.
 That's why I believe that coaching *will* transform your life. And I'd
 love to show you how.
 
-Click [here](https://calendly.com/parhamdoustdar/clarity) to book a
-free, no obligation session with me, where I will show you the
-transformational power of coaching by serving you in the best way
-possible – by helping you dream bigger, then make it real.
+Click [here](https://calendly.com/parhamdoustdar/chat) to book a time
+in my calendar so we can get to know each other, no strings
+attached. If we both feel that we click, we'll set up a free,
+no-obligation session where I will show you the transformational power
+of coaching by serving you in the best way possible – by helping you
+dream bigger, then make it real.
 
 ## Not ready yet?
 
