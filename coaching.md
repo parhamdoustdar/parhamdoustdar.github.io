@@ -25,23 +25,28 @@ those relationships decay.
 They wished that they had let themselves be happier.
 
 In other words, they wished they had brought their full self into the
-world, instead of shoving it down, shutting it in a room and locking
-the door. They wished that they had realized that they are valuable
-human beings, and they must treat themselves that way.
+world, instead of stepping down on themselves, shutting themselves in
+a room, locking the door, and throwing the key away. They wished that
+they had realized that they are valuable human beings, and they must
+treat themselves that way.
 
 When you think into the future, to your last few days in this world,
 what would you say your regrets would be? Would you have lived a full
-life?
+life, or would you have one of those five regrets?
 
 If not, it's okay. I'm here to help you bring your entire self into
 the world through self-realization.
 
+If you're already interested, [get in touch](/contact/). If you'd like
+to know more, keep on reading.
+
 ## What Is Self-Realization?
 
-Self-realization is realizing your full potential and bringing it into
-the world. I'm not talking about just reading, watching, or listening
-here – I'm talking about going out there into the world, experiencing
-it, and taking action, consciously.
+Self-realization is understanding and believing in your full
+potential, and bringing it into the world. I'm not talking about just
+thinking, reading, watching, or listening here – I'm talking about
+going out there into the world, experiencing it, and taking action,
+consciously.
 
 ## How Can Coaching Help?
 
@@ -218,7 +223,7 @@ days. But my coaches help me live through it all with grace.
 That's why I believe that coaching *will* transform your life. And I'd
 love to show you how.
 
-## How It Works
+## How Does It Work?
 
 First, we get on a short 30 minute call to get to know each other in a
 conversation. If we feel like we click, we schedule a free,
@@ -250,18 +255,20 @@ to. My role is *not* to make a goal for you. I will provide
 suggestions and opinions if you want, but it's only when you
 explicitly ask for it.
 
-## What You Get
+## What Do You Get?
 
 Here is a recap of what you get:
 
-- A coaching package, customized and optimized just for you
+- A bespoke coaching package, customized and optimized just for you
 - Free two hour coaching session (worth €300)
 - Free 1 hour emergency coaching session per month, in case you get stuck and need help fast (worth €150)
 - Free bonus: Enneagram report to help you identify your core motivations, strengths, challenges, blind spots and more (worth €100)
 
-If you want to live a full life with your entire being, I'd love to help. Please [get in touch](/contact/).
+Please [get in touch](/contact/) if you want to live a full life with
+your entire being. I'd love to help.
 
-Whatever you do, don't forget: you're precious. Even if you don't believe it, act as if that was true.
+Whatever you do, don't forget: you're precious. Even if you don't
+believe it today, act as if that was true.
 
 ## Not ready yet?
 
