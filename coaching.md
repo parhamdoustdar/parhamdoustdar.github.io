@@ -60,7 +60,6 @@ But here's what's wrong with them:
 
 - They are general. Some of the advice applies to you, some of it doesn't
 - They give you the knowledge, but then you're all on your own. That's why you feel like you're not implementing anything you learned
-- They don't help you grow. You grow by synthesizing ideas from your past, thoughts, emotions and body, and putting those ideas into action
 
 In other words, they are just input.
 
