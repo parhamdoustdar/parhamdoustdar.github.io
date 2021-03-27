@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coaching
-permalink: /coaching2/
+permalink: /coaching/
 ---
 
 ## Live a Full Life – You Deserve It!
