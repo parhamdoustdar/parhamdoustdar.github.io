@@ -19,7 +19,7 @@ My friend had learned this technique in a book. He figured that if he'd make a t
 
 And it worked.
 
-The days after that were a blur for my friend. He worked day after day, spurred on by the vision of a life of the power of choice, and emboldened by the investor's trust in their abilities. They defined an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product). They turned those into stories. They told all of their friends and family that they have a big thing coming in the next two months. My friend swears that he tried to write the cleanest code he knew to write, and he managed to do it while keeping the investor happy -- we all know how difficult that is to accomplish.
+The days after that were a blur for my friend. He worked day after day, spurred on by the vision of a life of the power of choice, and emboldened by the investor's trust in their abilities. They defined an [MVP](https://www.appdevelopmentcost.com/app-mvp). They turned those into stories. They told all of their friends and family that they have a big thing coming in the next two months. My friend swears that he tried to write the cleanest code he knew to write, and he managed to do it while keeping the investor happy -- we all know how difficult that is to accomplish.
 
 The day of the release my friend and the other co-founder didn't sleep. They were excited, energetic, and wondered what the public's reaction could be to this new product. In a few hours, they would manually send messages to different social media websites, and their future would start.
 
